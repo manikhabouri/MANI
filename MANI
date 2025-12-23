@@ -16,5 +16,11 @@
         "key": "JAVAD",
         "expirydate": "15-06-2080",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9bb0800cfaac8d37",
+        "key": "X1",
+        "expirydate": "23-10-2026",
+        "Allowoffline": false
     }
 ]
