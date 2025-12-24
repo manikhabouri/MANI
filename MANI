@@ -58,5 +58,11 @@
         "key": "X7",
         "expirydate": "23-10-2036",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ad0af0954c0d671f",
+        "key": "X8",
+        "expirydate": "24-10-2026",
+        "Allowoffline": false
     }
 ]
