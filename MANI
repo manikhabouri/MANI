@@ -82,5 +82,11 @@
         "key": "X11",
         "expirydate": "24-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5954805004212bdb",
+        "key": "X12",
+        "expirydate": "24-10-2026",
+        "Allowoffline": false
     }
 ]
