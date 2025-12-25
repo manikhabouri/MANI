@@ -88,5 +88,11 @@
         "key": "X12",
         "expirydate": "24-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ef349eead8c14374",
+        "key": "X13",
+        "expirydate": "10-01-2026",
+        "Allowoffline": false
     }
 ]
