@@ -94,5 +94,11 @@
         "key": "X13",
         "expirydate": "10-01-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cb1e9bc10655eae1",
+        "key": "X14",
+        "expirydate": "25-05-2026",
+        "Allowoffline": false
     }
 ]
