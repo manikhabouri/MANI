@@ -112,5 +112,11 @@
         "key": "X16",
         "expirydate": "26-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca54ed4818dde0cd",
+        "key": "X17",
+        "expirydate": "27-06-2026",
+        "Allowoffline": false
     }
 ]
