@@ -154,5 +154,11 @@
         "key": "X23",
         "expirydate": "13-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2299668ad85bf919",
+        "key": "X24",
+        "expirydate": "21-12-2026",
+        "Allowoffline": false
     }
 ]
