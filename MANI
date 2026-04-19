@@ -167,10 +167,4 @@
         "expirydate": "24-12-2026",
         "Allowoffline": false
     },
-    {
-        "device_id": "9b533b517d4e4b7e",
-        "key": "X26",
-        "expirydate": "05-09-2026",
-        "Allowoffline": false
-    }
 ]
