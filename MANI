@@ -179,4 +179,10 @@
         "expirydate": "05-10-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "ef0238af04f38e2a",
+        "key": "X29",
+        "expirydate": "05-10-3026",
+        "Allowoffline": false
+    },
 ]
