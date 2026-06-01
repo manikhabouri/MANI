@@ -203,4 +203,18 @@
         "expirydate": "29-03-2227",
         "Allowoffline": false
     },
+
+{
+        "device_id": "679f53812f8e6825",
+        "key": "X33",
+        "expirydate": "01-04-2027",
+        "Allowoffline": false
+    },
+
+{
+        "device_id": "a34bc21568dbb4c3",
+        "key": "X34",
+        "expirydate": "01-04-2027",
+        "Allowoffline": false
+    },
 ]
