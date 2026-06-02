@@ -217,4 +217,10 @@
         "expirydate": "01-04-2027",
         "Allowoffline": false
     },
+{
+        "device_id": "9a0d36310bdc9e75",
+        "key": "X35",
+        "expirydate": "02-04-2027",
+        "Allowoffline": false
+    },
 ]
