@@ -223,4 +223,10 @@
         "expirydate": "02-04-2027",
         "Allowoffline": false
     },
+{
+        "device_id": "396e66ed54ce5a5b",
+        "key": "X36",
+        "expirydate": "04-04-2027",
+        "Allowoffline": false
+    },
 ]
