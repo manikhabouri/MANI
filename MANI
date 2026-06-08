@@ -239,4 +239,10 @@
         "expirydate": "05-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "870701aeb0a6122b",
+        "key": "X39",
+        "expirydate": "08-04-2027",
+        "Allowoffline": false
+    },
 ]
