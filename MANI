@@ -257,4 +257,10 @@
         "expirydate": "08-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "67091fd11f730453",
+        "key": "X42",
+        "expirydate": "10-04-2027",
+        "Allowoffline": false
+    },
 ]
