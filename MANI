@@ -275,4 +275,10 @@
         "expirydate": "13-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "683c9cc9dee4464b",
+        "key": "X45",
+        "expirydate": "13-04-2027",
+        "Allowoffline": false
+    },
 ]
