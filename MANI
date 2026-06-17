@@ -287,4 +287,10 @@
         "expirydate": "14-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "2bf75eaf52957fb0",
+        "key": "X47",
+        "expirydate": "17-04-2027",
+        "Allowoffline": false
+    },
 ]
