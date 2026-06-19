@@ -305,4 +305,10 @@
         "expirydate": "19-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "625e1c382f39a3fb",
+        "key": "X51",
+        "expirydate": "19-04-2027",
+        "Allowoffline": false
+    },
 ]
