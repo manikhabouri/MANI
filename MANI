@@ -299,4 +299,10 @@
         "expirydate": "18-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "2e3e88e38df34acc",
+        "key": "X50",
+        "expirydate": "19-04-2027",
+        "Allowoffline": false
+    },
 ]
