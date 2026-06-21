@@ -311,4 +311,10 @@
         "expirydate": "19-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "207e80decc322597",
+        "key": "X52",
+        "expirydate": "21-04-2027",
+        "Allowoffline": false
+    },
 ]
