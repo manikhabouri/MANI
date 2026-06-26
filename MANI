@@ -323,4 +323,10 @@
         "expirydate": "23-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "acd1dd02dd410daf",
+        "key": "X54",
+        "expirydate": "26-04-2027",
+        "Allowoffline": false
+    },
 ]
