@@ -329,4 +329,10 @@
         "expirydate": "26-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "ef322db6b43ff375",
+        "key": "X55",
+        "expirydate": "27-04-2027",
+        "Allowoffline": false
+    },
 ]
