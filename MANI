@@ -335,4 +335,10 @@
         "expirydate": "27-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "5c0e5b8fea1ae0f8",
+        "key": "X56",
+        "expirydate": "28-04-2027",
+        "Allowoffline": false
+    },
 ]
