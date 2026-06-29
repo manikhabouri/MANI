@@ -341,4 +341,11 @@
         "expirydate": "28-04-2027",
         "Allowoffline": false
     },
+
+    {
+        "device_id": "676df47d2175e571",
+        "key": "X57",
+        "expirydate": "29-11-2026",
+        "Allowoffline": false
+    },
 ]
