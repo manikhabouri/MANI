@@ -354,4 +354,10 @@
         "expirydate": "05-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "052a2fa767025922
+        "key": "X59",
+        "expirydate": "06-05-2027",
+        "Allowoffline": false
+    },
 ]
