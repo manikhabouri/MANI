@@ -20,7 +20,13 @@
     {
         "device_id": "ae83eec88f81fe0c",
         "key": "X1",
-        "expirydate": "15-06-2027",
+        "expirydate": "14-05-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ae83eec88f81fe0c",
+        "key": "X2",
+        "expirydate": "14-05-2027",
         "Allowoffline": false
     }
 ]
