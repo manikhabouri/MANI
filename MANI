@@ -384,4 +384,10 @@
         "expirydate": "19-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "c6895f90b24a6203",
+        "key": "X64",
+        "expirydate": "20-05-2027",
+        "Allowoffline": false
+    },
 ]
