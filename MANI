@@ -390,4 +390,10 @@
         "expirydate": "20-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "e5d2e24afa07149a",
+        "key": "X65",
+        "expirydate": "21-05-2027",
+        "Allowoffline": false
+    },
 ]
