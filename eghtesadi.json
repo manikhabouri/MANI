@@ -47,4 +47,16 @@
         "expirydate": "19-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "ff69c95c067b0113",
+        "key": "E4",
+        "expirydate": "21-12-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "52a32524af4b32cb",
+        "key": "E5",
+        "expirydate": "21-12-2026",
+        "Allowoffline": false
+    },
 ]
