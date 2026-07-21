@@ -396,4 +396,10 @@
         "expirydate": "21-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "aaa6400de8b22dd1",
+        "key": "X66",
+        "expirydate": "22-05-2027",
+        "Allowoffline": false
+    },
 ]
