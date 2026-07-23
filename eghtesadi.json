@@ -59,4 +59,10 @@
         "expirydate": "21-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "eecb4a9582ecd264",
+        "key": "E6",
+        "expirydate": "23-12-2026",
+        "Allowoffline": false
+    },
 ]
