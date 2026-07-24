@@ -65,4 +65,10 @@
         "expirydate": "23-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "cd92143f4c3b35b5",
+        "key": "E7",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
 ]
