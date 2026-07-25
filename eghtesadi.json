@@ -107,4 +107,10 @@
         "expirydate": "25-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "aa71c84764ce096a",
+        "key": "E14",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
+    },
 ]
