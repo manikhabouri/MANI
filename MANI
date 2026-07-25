@@ -408,4 +408,10 @@
         "expirydate": "22-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "18435e549050fe2d",
+        "key": "X68",
+        "expirydate": "25-05-2027",
+        "Allowoffline": false
+    },
 ]
