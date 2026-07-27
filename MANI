@@ -414,4 +414,10 @@
         "expirydate": "25-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "53f20e058164a7d3",
+        "key": "X69",
+        "expirydate": "27-05-2027",
+        "Allowoffline": false
+    },
 ]
