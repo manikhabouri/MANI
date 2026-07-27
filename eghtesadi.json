@@ -137,4 +137,10 @@
         "expirydate": "27-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "3771127197332813",
+        "key": "E19",
+        "expirydate": "27-05-2027",
+        "Allowoffline": false
+    },
 ]
