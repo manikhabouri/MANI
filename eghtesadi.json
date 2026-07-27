@@ -149,4 +149,10 @@
         "expirydate": "27-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "0b22e14b9e978b82",
+        "key": "E21",
+        "expirydate": "27-12-2026",
+        "Allowoffline": false
+    },
 ]
