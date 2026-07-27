@@ -125,4 +125,10 @@
         "expirydate": "26-12-3026",
         "Allowoffline": false
     },
+    {
+        "device_id": "a50637202eb3c474",
+        "key": "E17",
+        "expirydate": "27-12-2026",
+        "Allowoffline": false
+    },
 ]
