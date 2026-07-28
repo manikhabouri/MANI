@@ -185,4 +185,10 @@
         "expirydate": "28-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "cd249badccd1b39e",
+        "key": "E27",
+        "expirydate": "28-12-2026",
+        "Allowoffline": false
+    },
 ]
