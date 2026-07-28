@@ -173,4 +173,10 @@
         "expirydate": "28-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "a38961f1ea2e90ca",
+        "key": "E25",
+        "expirydate": "28-12-2026",
+        "Allowoffline": false
+    },
 ]
