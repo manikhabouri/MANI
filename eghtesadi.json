@@ -155,4 +155,10 @@
         "expirydate": "27-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "da40880a82e1cd01",
+        "key": "E22",
+        "expirydate": "28-05-2027",
+        "Allowoffline": false
+    },
 ]
