@@ -197,4 +197,10 @@
         "expirydate": "29-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "1beb5c9faa73d849",
+        "key": "E29",
+        "expirydate": "29-12-2026",
+        "Allowoffline": false
+    },
 ]
