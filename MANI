@@ -420,4 +420,10 @@
         "expirydate": "27-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "b958d4d197965485",
+        "key": "X70",
+        "expirydate": "30-05-2027",
+        "Allowoffline": false
+    },
 ]
