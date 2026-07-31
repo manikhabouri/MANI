@@ -426,4 +426,10 @@
         "expirydate": "30-05-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "b9b5f011437b639c",
+        "key": "X71",
+        "expirydate": "30-05-3027",
+        "Allowoffline": false
+    },
 ]
