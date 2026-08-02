@@ -432,4 +432,10 @@
         "expirydate": "02-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "c7c0f7dc64f6e42c",
+        "key": "X73",
+        "expirydate": "02-09-2028",
+        "Allowoffline": false
+    },
 ]
