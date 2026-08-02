@@ -432,4 +432,10 @@
         "expirydate": "30-05-3027",
         "Allowoffline": false
     },
+    {
+        "device_id": "6b601ac7071ae556",
+        "key": "X72",
+        "expirydate": "02-06-2027",
+        "Allowoffline": false
+    },
 ]
