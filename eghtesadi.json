@@ -239,4 +239,10 @@
         "expirydate": "03-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "ad29a106527bec98",
+        "key": "E381",
+        "expirydate": "03-01-2027",
+        "Allowoffline": false
+    },
 ]
