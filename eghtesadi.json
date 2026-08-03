@@ -233,4 +233,10 @@
         "expirydate": "02-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "b6baf47808caf508",
+        "key": "E37",
+        "expirydate": "03-01-2027",
+        "Allowoffline": false
+    },
 ]
