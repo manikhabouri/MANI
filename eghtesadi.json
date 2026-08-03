@@ -245,4 +245,10 @@
         "expirydate": "03-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d6660cbf3fffb986",
+        "key": "E39",
+        "expirydate": "03-01-2027",
+        "Allowoffline": false
+    },
 ]
