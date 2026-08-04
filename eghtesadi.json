@@ -251,4 +251,10 @@
         "expirydate": "03-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "cb1eaab4165b3309",
+        "key": "E40",
+        "expirydate": "04-01-2027",
+        "Allowoffline": false
+    },
 ]
