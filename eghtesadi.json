@@ -263,4 +263,10 @@
         "expirydate": "06-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "c9f29d077def5e07",
+        "key": "E42",
+        "expirydate": "06-06-2027",
+        "Allowoffline": false
+    },
 ]
