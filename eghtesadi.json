@@ -299,4 +299,10 @@
         "expirydate": "07-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "690bf4b54a3254db",
+        "key": "E48",
+        "expirydate": "07-01-2027",
+        "Allowoffline": false
+    },
 ]
