@@ -281,4 +281,10 @@
         "expirydate": "07-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "511725c8698e1ab9",
+        "key": "E45",
+        "expirydate": "07-01-2027",
+        "Allowoffline": false
+    },
 ]
