@@ -311,4 +311,10 @@
         "expirydate": "08-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "6d6036d067271751",
+        "key": "E49",
+        "expirydate": "09-01-2027",
+        "Allowoffline": false
+    },
 ]
