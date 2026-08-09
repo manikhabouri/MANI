@@ -317,4 +317,10 @@
         "expirydate": "09-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "dc4cccf741912a33",
+        "key": "E50",
+        "expirydate": "10-01-2027",
+        "Allowoffline": false
+    },
 ]
