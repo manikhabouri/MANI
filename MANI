@@ -444,5 +444,11 @@
         "expirydate": "08-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "3771127197332813",
+        "key": "X75",
+        "expirydate": "13-06-2027",
+        "Allowoffline": false
+    },
 
 ]
