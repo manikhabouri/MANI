@@ -329,4 +329,10 @@
         "expirydate": "13-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "bcd4255520e2d265",
+        "key": "E52",
+        "expirydate": "15-01-2027",
+        "Allowoffline": false
+    },
 ]
