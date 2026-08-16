@@ -335,4 +335,10 @@
         "expirydate": "15-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "abfbd97599771216",
+        "key": "E53",
+        "expirydate": "16-01-2027",
+        "Allowoffline": false
+    },
 ]
