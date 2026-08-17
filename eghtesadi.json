@@ -341,4 +341,10 @@
         "expirydate": "16-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "ac009470cbf50680",
+        "key": "E54",
+        "expirydate": "17-01-2027",
+        "Allowoffline": false
+    },
 ]
