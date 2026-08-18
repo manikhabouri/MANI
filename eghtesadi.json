@@ -347,4 +347,16 @@
         "expirydate": "17-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "e4c0bf608d445f53",
+        "key": "E55",
+        "expirydate": "18-01-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0aefb2ab68599523",
+        "key": "E56",
+        "expirydate": "18-01-2027",
+        "Allowoffline": false
+    },
 ]
