@@ -450,5 +450,11 @@
         "expirydate": "13-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "9032c9bc0697ac5b",
+        "key": "X76",
+        "expirydate": "18-06-2027",
+        "Allowoffline": false
+    },
 
 ]
