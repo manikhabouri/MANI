@@ -359,4 +359,10 @@
         "expirydate": "18-10-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "dc53379feb7677a1",
+        "key": "E57",
+        "expirydate": "19-10-2026",
+        "Allowoffline": false
+    },
 ]
