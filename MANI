@@ -462,4 +462,10 @@
         "expirydate": "21-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "ddb26be56237a10b",
+        "key": "X78",
+        "expirydate": "22-07-2027",
+        "Allowoffline": false
+    },
 ]
