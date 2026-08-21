@@ -456,5 +456,10 @@
         "expirydate": "18-06-2027",
         "Allowoffline": false
     },
-
+    {
+        "device_id": "eecb4a9582ecd264",
+        "key": "X77",
+        "expirydate": "21-06-2027",
+        "Allowoffline": false
+    },
 ]
