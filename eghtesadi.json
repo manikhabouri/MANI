@@ -389,4 +389,10 @@
         "expirydate": "23-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "322bfaf4f321e205",
+        "key": "E62",
+        "expirydate": "23-10-2026",
+        "Allowoffline": false
+    },
 ]
