@@ -468,4 +468,10 @@
         "expirydate": "22-07-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d042c7cef1778e5f",
+        "key": "X79",
+        "expirydate": "23-01-2027",
+        "Allowoffline": false
+    },
 ]
