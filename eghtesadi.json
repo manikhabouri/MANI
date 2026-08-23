@@ -383,4 +383,10 @@
         "expirydate": "22-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "2f1cfd5a782a886c",
+        "key": "E61",
+        "expirydate": "23-01-2027",
+        "Allowoffline": false
+    },
 ]
