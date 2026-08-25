@@ -401,4 +401,10 @@
         "expirydate": "24-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d7904a0f3dbe8e40",
+        "key": "E64",
+        "expirydate": "25-01-2027",
+        "Allowoffline": false
+    },
 ]
