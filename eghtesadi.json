@@ -413,4 +413,10 @@
         "expirydate": "26-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d3b8714036ff280e",
+        "key": "E66",
+        "expirydate": "26-01-3027",
+        "Allowoffline": false
+    },
 ]
