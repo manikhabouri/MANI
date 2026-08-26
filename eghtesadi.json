@@ -407,4 +407,10 @@
         "expirydate": "25-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "0118fa7703434913",
+        "key": "E65",
+        "expirydate": "26-01-2027",
+        "Allowoffline": false
+    },
 ]
