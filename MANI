@@ -492,10 +492,4 @@
         "expirydate": "27-06-2027",
         "Allowoffline": false
     },
-    {
-        "device_id": "8dcbfbe9fcc607b3",
-        "key": "Xtest",
-        "expirydate": "27-06-2027",
-        "Allowoffline": false
-    },
 ]
