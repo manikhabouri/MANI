@@ -486,4 +486,10 @@
         "expirydate": "26-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "b80c779ccaa84c1b",
+        "key": "X82",
+        "expirydate": "27-06-2027",
+        "Allowoffline": false
+    },
 ]
