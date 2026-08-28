@@ -443,4 +443,10 @@
         "expirydate": "28-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "0b176b6967b60b50",
+        "key": "Eacc",
+        "expirydate": "28-06-2027",
+        "Allowoffline": false
+    },
 ]
