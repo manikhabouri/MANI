@@ -461,4 +461,10 @@
         "expirydate": "29-01-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "69ca246770d47265",
+        "key": "E74",
+        "expirydate": "29-01-2027",
+        "Allowoffline": false
+    },
 ]
