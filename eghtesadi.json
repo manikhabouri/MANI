@@ -449,4 +449,10 @@
         "expirydate": "28-11-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "5e0da74809dbb8ae",
+        "key": "E72",
+        "expirydate": "29-06-2027",
+        "Allowoffline": false
+    },
 ]
