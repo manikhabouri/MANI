@@ -473,4 +473,10 @@
         "expirydate": "30-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "a548efcb9035a3b3",
+        "key": "E76",
+        "expirydate": "30-06-2027",
+        "Allowoffline": false
+    },
 ]
