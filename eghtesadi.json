@@ -476,7 +476,13 @@
     {
         "device_id": "a548efcb9035a3b3",
         "key": "E76",
-        "expirydate": "30-06-2027",
+        "expirydate": "30-01-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "6f2f069dc3357bcb",
+        "key": "E77",
+        "expirydate": "01-02-2027",
         "Allowoffline": false
     },
 ]
