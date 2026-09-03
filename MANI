@@ -498,4 +498,10 @@
         "expirydate": "29-06-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "97a04910ec4cdbdd",
+        "key": "X84",
+        "expirydate": "03-07-2027",
+        "Allowoffline": false
+    },
 ]
