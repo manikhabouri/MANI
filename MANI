@@ -510,4 +510,10 @@
         "expirydate": "03-07-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "8ce5cceb67f50370",
+        "key": "X86",
+        "expirydate": "03-12-2026",
+        "Allowoffline": false
+    },
 ]
