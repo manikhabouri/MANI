@@ -522,4 +522,10 @@
         "expirydate": "06-09-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "dab4390b6fad8e4f",
+        "key": "X88",
+        "expirydate": "06-09-3027",
+        "Allowoffline": false
+    },
 ]
