@@ -516,4 +516,10 @@
         "expirydate": "03-12-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "be9fc2115e90154b",
+        "key": "X87",
+        "expirydate": "06-09-2027",
+        "Allowoffline": false
+    },
 ]
