@@ -528,4 +528,10 @@
         "expirydate": "06-09-3027",
         "Allowoffline": false
     },
+    {
+        "device_id": "d34a8f1afdf5e376",
+        "key": "X89",
+        "expirydate": "07-06-3027",
+        "Allowoffline": false
+    },
 ]
