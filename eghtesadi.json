@@ -509,4 +509,10 @@
         "expirydate": "08-02-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "4d612bc4d9e68e50",
+        "key": "E82",
+        "expirydate": "08-02-2027",
+        "Allowoffline": false
+    },
 ]
