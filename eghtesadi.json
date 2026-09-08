@@ -503,4 +503,10 @@
         "expirydate": "08-02-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "081183a75aedc2a8",
+        "key": "E81",
+        "expirydate": "08-02-2027",
+        "Allowoffline": false
+    },
 ]
