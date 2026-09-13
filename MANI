@@ -534,4 +534,10 @@
         "expirydate": "07-06-3027",
         "Allowoffline": false
     },
+    {
+        "device_id": "b5bb78158f72b3a9",
+        "key": "X90",
+        "expirydate": "13-06-3027",
+        "Allowoffline": false
+    },
 ]
