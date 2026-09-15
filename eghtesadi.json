@@ -539,4 +539,11 @@
         "expirydate": "14-02-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "c216b2f7129bb7d9",
+        "key": "E87",
+        "expirydate": "15-02-2027",
+        "Allowoffline": false
+    },
+    
 ]
