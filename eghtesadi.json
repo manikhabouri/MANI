@@ -545,11 +545,5 @@
         "expirydate": "15-02-2027",
         "Allowoffline": false
     },
-    {
-        "device_id": "f6c6cbea38efb67c",
-        "key": "E88",
-        "expirydate": "16-07-2027",
-        "Allowoffline": false
-    },
     
 ]
