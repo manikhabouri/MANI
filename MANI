@@ -540,4 +540,10 @@
         "expirydate": "13-06-3027",
         "Allowoffline": false
     },
+    {
+        "device_id": "f6c6cbea38efb67c",
+        "key": "X91",
+        "expirydate": "17-07-3027",
+        "Allowoffline": false
+    },
 ]
