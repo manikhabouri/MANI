@@ -590,13 +590,19 @@
     {
         "device_id": "44f2319bce034073",
         "key": "E95",
-        "expirydate": "28-02-2027",
+        "expirydate": "28-01-2027",
         "Allowoffline": false
     },
     {
         "device_id": "0203fa95978bdbaa",
         "key": "E96",
         "expirydate": "28-02-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "77ea4b5f9d5606cc",
+        "key": "E97",
+        "expirydate": "29-12-2026",
         "Allowoffline": false
     },
 ]
