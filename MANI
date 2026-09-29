@@ -552,10 +552,4 @@
         "expirydate": "17-07-2027",
         "Allowoffline": false
     },
-    {
-        "device_id": "552b6d02c01ede89",
-        "key": "X93",
-        "expirydate": "28-07-2027",
-        "Allowoffline": false
-    },
 ]
