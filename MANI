@@ -558,4 +558,10 @@
         "expirydate": "07-08-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "44b8825820e766cd",
+        "key": "X94",
+        "expirydate": "10-08-2027",
+        "Allowoffline": false
+    },
 ]
