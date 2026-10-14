@@ -647,4 +647,10 @@
         "expirydate": "13-03-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "511c9b2b25bf9d08",
+        "key": "E105",
+        "expirydate": "14-03-2027",
+        "Allowoffline": false
+    },
 ]
