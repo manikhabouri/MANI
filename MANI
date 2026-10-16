@@ -567,7 +567,13 @@
 {
         "device_id": "4c1ea6f269c71854",
         "key": "X95",
-        "expirydate": "12-10-2027",
+        "expirydate": "12-08-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "4c1ea6f269c71854",
+        "key": "X96",
+        "expirydate": "16-08-2027",
         "Allowoffline": false
     },
 ]
