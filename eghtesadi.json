@@ -659,4 +659,10 @@
         "expirydate": "16-03-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "fb3531482be0f724",
+        "key": "E107",
+        "expirydate": "18-03-2027",
+        "Allowoffline": false
+    },
 ]
