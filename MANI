@@ -582,4 +582,10 @@
         "expirydate": "16-08-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "605ef8aceba4c042",
+        "key": "X98",
+        "expirydate": "19-08-2027",
+        "Allowoffline": false
+    },
 ]
