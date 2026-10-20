@@ -588,4 +588,10 @@
         "expirydate": "19-08-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "f2be58e1b9007f15",
+        "key": "X99",
+        "expirydate": "20-08-2027",
+        "Allowoffline": false
+    },
 ]
