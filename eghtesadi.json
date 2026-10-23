@@ -677,4 +677,16 @@
         "expirydate": "23-03-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "8ecc47eb1fd5c5f6",
+        "key": "E110",
+        "expirydate": "23-03-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "key": "E111",
+        "expirydate": "23-03-2027",
+        "Allowoffline": false
+    },
 ]
