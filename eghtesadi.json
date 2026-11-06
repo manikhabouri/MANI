@@ -701,4 +701,10 @@
         "expirydate": "05-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "431ca2a1608d171d",
+        "key": "E114",
+        "expirydate": "06-04-2027",
+        "Allowoffline": false
+    },
 ]
