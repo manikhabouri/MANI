@@ -612,4 +612,10 @@
         "expirydate": "09-09-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "f0889290cd93089f",
+        "key": "X103",
+        "expirydate": "13-09-2027",
+        "Allowoffline": false
+    },
 ]
