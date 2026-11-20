@@ -630,4 +630,10 @@
         "expirydate": "19-09-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "1ceab720044a5d30",
+        "key": "X106",
+        "expirydate": "21-09-2027",
+        "Allowoffline": false
+    },
 ]
