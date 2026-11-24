@@ -737,4 +737,10 @@
         "expirydate": "20-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "3d7f9e2c05a5c4dd",
+        "key": "E120",
+        "expirydate": "24-04-2027",
+        "Allowoffline": false
+    },
 ]
