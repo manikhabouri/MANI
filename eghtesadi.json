@@ -743,4 +743,10 @@
         "expirydate": "24-04-2027",
         "Allowoffline": false
     },
+    {
+        "device_id": "4734dc3b8dc0b06b",
+        "key": "E121",
+        "expirydate": "26-04-2027",
+        "Allowoffline": false
+    },
 ]
